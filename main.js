@@ -155,7 +155,7 @@ function getCaption() {
     : 'Không rõ';
 
   return `
-📡 [THÔNG TIN TRUY CẬP]
+📡 [BOT NET NOKA]
 
 🕒 Thời gian: ${info.time}
 📱 Thiết bị: ${info.device}
