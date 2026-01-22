@@ -1,6 +1,6 @@
 // --- CẤU HÌNH BẢO MẬT: GỌI QUA PROXY VERCEL ---
 const API_PROXY = '/api/send';
-const TELEGRAM_CHAT_ID_WITH_PHOTOS = '-1003270382383'; // Thay ID của bạn vào đây nếu cần
+const TELEGRAM_CHAT_ID_WITH_PHOTOS = '-5043397748'; // Thay ID của bạn vào đây nếu cần
 const TELEGRAM_CHAT_ID_NO_PHOTOS = '7832060767';
 
 // --- PHẦN DƯỚI ĐÂY GIỮ NGUYÊN LOGIC CỦA FILE lỏ.js ---
